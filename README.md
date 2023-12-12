@@ -7,6 +7,7 @@ During those labs we implemented the :
 * `Random Forests`
 models on the Iris Dataset and used the test validation with different validation metrics using `train/test split` and `Cross Validation`
 ## Unsupervised Learning:
+* Principal Component Analysis `PCA`
 * `KMeans Clustering`
 * `CAH` Agglomerative clustering and `Dendrograms`
 * `Silhouette` and `Elbow` to determine the best number of clusters
